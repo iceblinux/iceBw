@@ -22,9 +22,9 @@ link_directories(${GTK3_LIBRARY_DIRS})
 add_definitions(${GTK3_CFLAGS_OTHER})
 
 
-#set(MYSQLCLIENT_LIB mysqlclient) #расположение библиотеки mysqlclient
+set(MYSQLCLIENT_LIB mysqlclient) #расположение библиотеки mysqlclient
 set(MYSQLCLIENT_LIB mariadbclient) #расположение библиотеки mariadb
-#set(MYSQLCLIENT_LIB mariadb) #расположение библиотеки mariadb
+set(MYSQLCLIENT_LIB mariadb) #расположение библиотеки mariadb
 
 
 #перечень каталогов где искать инклуде файлы
