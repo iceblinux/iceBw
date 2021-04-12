@@ -22,7 +22,7 @@ POSIX - название международного стандарта на о
 
 ### Существует две версии системы:
 
-**[iceB_terminal - система с терминальным интерфейсом.](https://iceblinux.github.io/iceB_teminal/)**
+**[iceB_terminal - система с терминальным интерфейсом.](https://iceblinux.github.io/iceB_terminal/)**
 
 **[iceBw_GTK - система с графическим интерфейсом.](https://iceblinux.github.io/iceBw_GTK)**
 
